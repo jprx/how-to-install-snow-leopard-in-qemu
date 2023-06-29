@@ -1,0 +1,43 @@
+<key>Quirks</key>
+<dict>
+        <key>AllowRelocationBlock</key>
+        <true/>
+        <key>AvoidRuntimeDefrag</key>
+        <true/>
+        <key>DevirtualiseMmio</key>
+        <true/>
+        <key>DisableSingleUser</key>
+        <false/>
+        <key>DisableVariableWrite</key>
+        <false/>
+        <key>DiscardHibernateMap</key>
+        <false/>
+        <key>EnableSafeModeSlide</key>
+        <true/>
+        <key>EnableWriteUnprotector</key>
+        <true/>
+        <key>ForceBooterSignature</key>
+        <false/>
+        <key>ForceExitBootServices</key>
+        <false/>
+        <key>ProtectMemoryRegions</key>
+        <false/>
+        <key>ProtectSecureBoot</key>
+        <false/>
+        <key>ProtectUefiServices</key>
+        <false/>
+        <key>ProvideCustomSlide</key>
+        <true/>
+        <key>ProvideMaxSlide</key>
+        <integer>0</integer>
+        <key>RebuildAppleMemoryMap</key>
+        <true/>
+        <key>ResizeAppleGpuBars</key>
+        <integer>-1</integer>
+        <key>SetupVirtualMap</key>
+        <false/>
+        <key>SignalAppleOS</key>
+        <false/>
+        <key>SyncRuntimePermissions</key>
+        <false/>
+</dict>
